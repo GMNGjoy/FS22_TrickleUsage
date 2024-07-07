@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="79">
+    <author>GMNGjoy</author>
+    <version>0.9.0.0</version>
+
+    <title>
+        <en>Trickle Usage</en>
+        <de>Trickle-Nutzung</de>
+    </title>
+
+    <description>
+        <en><![CDATA[Tired of burning though your fieldwork proucts like Seeds, Lime, Fertilizer, Manure, Slurry and the like? Take control of your usage rates!
+
+SETTINGS:
+- Seed Usage Rate: set the usage rate for all Seeders &amp; Planters, where 100% is the game default.
+- Sprayer Usage Rate: set the usage rate for all Sprayers &amp; Spreaders, where 100% is the game default. This affects everything in the following categories: Crop Protection, Slurry Tanks, Sprayers, Fertilizer Spreaders &amp; Manure Spreaders.
+]]>
+        </en>
+        <de><![CDATA[Sind Sie es leid, Ihre Feldprodukte wie Saatgut, Kalk, Dünger, Mist, Gülle und dergleichen zu verbrennen? Übernehmen Sie die Kontrolle über Ihre Nutzungsraten!
+
+EINSTELLUNGEN:
+- Saatgutnutzungsrate: Legen Sie die Nutzungsrate für alle Sä- und Pflanzmaschinen fest, wobei 100 % die Spielvorgabe ist.
+- Sprühgerätenutzungsrate: Legen Sie die Nutzungsrate für alle Sprühgeräte und Streuer fest, wobei 100 % die Spielvorgabe ist. Dies betrifft alles in den folgenden Kategorien: Pflanzenschutz, Gülletanks, Sprühgeräte, Düngerstreuer und Miststreuer.
+]]>
+        </de>
+    </description>
+
+    <iconFilename>icon_trickleUsage.png</iconFilename>
+    <multiplayer supported="true" />
+    <l10n filenamePrefix="languages/l10n" />
+
+    <extraSourceFiles>
+        <sourceFile filename="trickleUsage.lua"/>
+        <sourceFile filename="trickleUsageSettings.lua"/>
+    </extraSourceFiles>
+
+</modDesc>

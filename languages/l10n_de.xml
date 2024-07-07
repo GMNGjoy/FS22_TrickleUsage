@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors/>
+	<texts>
+        <text name="menu_trickleUsage_TITLE" text="TRICKLE-VERWENDUNG" />
+        <text name="setting_trickleUsage_seedScale" text="Seeder-Nutzungsrate" />
+        <text name="toolTip_trickleUsage_seedScale" text="Legen Sie die Nutzungsrate für alle Sä- und Pflanzmaschinen fest, wobei 100 % die Spielvorgabe ist." />
+        <text name="setting_trickleUsage_sprayScale" text="Sprüher-Nutzungsrate" />
+        <text name="toolTip_trickleUsage_sprayScale" text="Legen Sie die Nutzungsrate für alle Sprüher und Streuer fest, wobei 100 % die Spielvorgabe ist. Dies betrifft alles in den folgenden Kategorien: Pflanzenschutz, Gülletanks, Sprüher, Düngerstreuer und Miststreuer." />
+	</texts>
+</l10n>

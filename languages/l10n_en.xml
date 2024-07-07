@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors/>
+	<texts>
+        <text name="menu_trickleUsage_TITLE" text="TRICKLE USAGE" />
+        <text name="setting_trickleUsage_seedScale" text="Seeder Usage Rate" />
+        <text name="toolTip_trickleUsage_seedScale" text="Set the usage rate for all Seeders &amp; Planters, where 100% is the game default." />
+        <text name="setting_trickleUsage_sprayScale" text="Sprayer Usage Rate" />
+        <text name="toolTip_trickleUsage_sprayScale" text="Set the usage rate for all Sprayers &amp; Spreaders, where 100% is the game default. This affects everything in the following categories: Crop Protection, Slurry Tanks, Sprayers, Fertilizer Spreaders &amp; Manure Spreaders." />
+	</texts>
+</l10n>
