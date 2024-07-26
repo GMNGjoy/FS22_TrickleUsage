@@ -22,5 +22,5 @@ _Trickle Usage settings in main menu_
 ![Works on every vehicle](/_screenshots/screenshot_2.png)
 _Works on every vehicle, mods too!_
 
-![Works on every implement](/_screenshots/screenshot_2.png)
+![Works on every implement](/_screenshots/screenshot_3.png)
 _Works on every implement, mods too!_
