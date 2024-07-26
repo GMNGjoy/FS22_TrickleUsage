@@ -95,6 +95,10 @@ end
 -- READ/WRITE SETTINGS
 function TrickleUsage.writeSettings()
 
+	if not g_currentMission.missionInfo or not g_currentMission.missionInfo.savegameDirectory then
+		return
+	end
+
 	local key = "trickleUsage"
 	local userSettingsFile = g_currentMission.missionInfo.savegameDirectory .. "/TrickleUsage.xml"
 	-- local userSettingsFile = Utils.getFilename("modSettings/TrickleUsage.xml", getUserProfileAppPath())
@@ -129,7 +133,10 @@ end
 
 function TrickleUsage.readSettings()
 
-	-- local userSettingsFile = Utils.getFilename("modSettings/TrickleUsage.xml", getUserProfileAppPath())
+	if not g_currentMission.missionInfo or not g_currentMission.missionInfo.savegameDirectory then
+		return
+	end
+
 	local userSettingsFile = g_currentMission.missionInfo.savegameDirectory .. "/TrickleUsage.xml"
 
 	if not fileExists(userSettingsFile) then

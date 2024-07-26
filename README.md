@@ -13,3 +13,14 @@ A new mod that will allow you to manage the usage rates of seeder and sprayer ve
 1. Download this package from GitHub on the releases page, save the `FS22_TrickleUsage.zip` into your mod folder.
 2. Launch the game, and select the mod to load into the game
 3. Default settings are Seeder: 50%, Sprayer: 25%, change those values in your game settings page as needed.
+
+## Screenshots
+
+![Trickle Usage settings in main menu](/_screenshots/screenshot_1.png)
+_Trickle Usage settings in main menu_
+
+![Works on every vehicle](/_screenshots/screenshot_2.png)
+_Works on every vehicle, mods too!_
+
+![Works on every implement](/_screenshots/screenshot_2.png)
+_Works on every implement, mods too!_

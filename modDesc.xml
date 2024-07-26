@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="79">
+<modDesc descVersion="80">
     <author>GMNGjoy</author>
-    <version>0.9.0.0</version>
+    <version>1.0.0.0</version>
 
     <title>
         <en>Trickle Usage</en>
@@ -14,6 +14,9 @@
 SETTINGS:
 - Seed Usage Rate: set the usage rate for all Seeders &amp; Planters, where 100% is the game default.
 - Sprayer Usage Rate: set the usage rate for all Sprayers &amp; Spreaders, where 100% is the game default. This affects everything in the following categories: Crop Protection, Slurry Tanks, Sprayers, Fertilizer Spreaders &amp; Manure Spreaders.
+
+NOTE:
+- For modded implements that may already have a non-standard usage rate set (ie: The 6-Ton Fertilizer Spreader), the settings you make with this mod will OVERRIDE any settings in the oringinal mod.
 ]]>
         </en>
         <de><![CDATA[Sind Sie es leid, Ihre Feldprodukte wie Saatgut, Kalk, Dünger, Mist, Gülle und dergleichen zu verbrennen? Übernehmen Sie die Kontrolle über Ihre Nutzungsraten!
@@ -21,6 +24,9 @@ SETTINGS:
 EINSTELLUNGEN:
 - Saatgutnutzungsrate: Legen Sie die Nutzungsrate für alle Sä- und Pflanzmaschinen fest, wobei 100 % die Spielvorgabe ist.
 - Sprühgerätenutzungsrate: Legen Sie die Nutzungsrate für alle Sprühgeräte und Streuer fest, wobei 100 % die Spielvorgabe ist. Dies betrifft alles in den folgenden Kategorien: Pflanzenschutz, Gülletanks, Sprühgeräte, Düngerstreuer und Miststreuer.
+
+HINWEIS:
+- Bei modifizierten Geräten, für die möglicherweise bereits eine nicht standardmäßige Nutzungsrate eingestellt ist (z. B. der 6-Tonnen-Düngerstreuer), überschreiben die Einstellungen, die Sie mit diesem Mod vornehmen, alle Einstellungen im Originalmod.
 ]]>
         </de>
     </description>
